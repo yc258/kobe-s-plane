@@ -81,7 +81,7 @@ void loop() {
       }
       break;
 
-    case 11: // 整套SOS结束后长时间熄灭等待
+    case 12: // 整套SOS结束后长时间熄灭等待
       digitalWrite(ledPin, LOW);
       if(elapsed >= sosEndGap){
         stateStart = now;
