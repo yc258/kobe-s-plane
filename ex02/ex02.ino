@@ -1,4 +1,4 @@
-// LE D引脚定义
+// LE D 引脚定义
 const int ledPin = 2;
 
 // 时间控制变量
