@@ -1,4 +1,4 @@
-// 定义LED引脚
+// 定义LED  引脚
 const int ledPin = 2;
 const int ledChannel = 0;  // 手动指定PWM通道 0~15
 
